@@ -11,6 +11,10 @@ In this project I will build a tool that allows upload of Polestar log files, wi
 
 I will attempt to do most of the development while live on [Twitch](https://www.twitch.tv/FuzzAU).
 
+## Project details here
+
+https://github.com/users/FuzzAU/projects/2/views/1
+
 ## Tech Stack
 
 I'll be using Django 4.1 on Python 3.10.
